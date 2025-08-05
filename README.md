@@ -2,7 +2,6 @@
 
 A machine learning project implemented in Google Colab to detect driver drowsiness in real-time using Convolutional Neural Networks (CNN). The model is trained on images of open/closed eyes and yawning, and can trigger an alert when signs of drowsiness are detected.
 
----
 
 ## 📌 Features
 - Real-time driver monitoring.
@@ -13,11 +12,11 @@ A machine learning project implemented in Google Colab to detect driver drowsine
   - No-yawn
 - Alarm trigger for drowsiness detection.
 
----
 
 ## 📊 Dataset
-The model is trained on the [yawn_eye_dataset_new]([https://www.kaggle.com/](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new/code))  
-You can download it from Kaggle and upload it to your Google Drive for Colab use.
+The model is trained on the "yawn_eye_dataset_new"
+You can download it from Kaggle site : https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new/code
 
 
-## Testing
+## Testing and Results
+
